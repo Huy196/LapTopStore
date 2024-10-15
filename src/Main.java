@@ -9,7 +9,10 @@ public class Main {
 //        AddLaptop addLaptop = new AddLaptop();
 //        addLaptop.addLaptop();
 
-        UpdateLaptop updateLaptop = new UpdateLaptop();
-        updateLaptop.updateLaptop();
+//        UpdateLaptop updateLaptop = new UpdateLaptop();
+//        updateLaptop.updateLaptop();
+
+        DeleteLaptop deleteLaptop = new DeleteLaptop();
+        deleteLaptop.deleteLaptop();
     }
 }
