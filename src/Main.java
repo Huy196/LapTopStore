@@ -6,7 +6,10 @@ public class Main {
 //        DisplayList displayList = new DisplayList();
 //        displayList.displayList();
 
-        AddLaptop addLaptop = new AddLaptop();
-        addLaptop.addLaptop();
+//        AddLaptop addLaptop = new AddLaptop();
+//        addLaptop.addLaptop();
+
+        UpdateLaptop updateLaptop = new UpdateLaptop();
+        updateLaptop.updateLaptop();
     }
 }
