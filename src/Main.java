@@ -12,7 +12,10 @@ public class Main {
 //        UpdateLaptop updateLaptop = new UpdateLaptop();
 //        updateLaptop.updateLaptop();
 
-        DeleteLaptop deleteLaptop = new DeleteLaptop();
-        deleteLaptop.deleteLaptop();
+//        DeleteLaptop deleteLaptop = new DeleteLaptop();
+//        deleteLaptop.deleteLaptop();
+
+        SeachName seachName = new SeachName();
+        seachName.seachName();
     }
 }
